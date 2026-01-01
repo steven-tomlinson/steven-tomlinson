@@ -22,18 +22,18 @@ Senior Software Solution Architect with **30+ years** of experience designing an
 - **Architecture Governance**: ADRs (Architecture Decision Records), technology radar, fitness functions
 
 ### ☁️ Cloud-Native Platforms
-- **Cloud Providers**: AWS (Solutions Architect Professional), Azure (Solutions Architect Expert), Google Cloud Platform
-- **Container Orchestration**: Kubernetes, Docker, Helm, Kustomize, ArgoCD, Flux
-- **Infrastructure as Code**: Terraform, Pulumi, AWS CDK, CloudFormation, Bicep
-- **Serverless**: AWS Lambda, Azure Functions, Google Cloud Functions, Knative
-- **Service Mesh**: Istio, Linkerd, Consul Connect, AWS App Mesh
+- **Cloud Providers**: Azure (Solutions Architect Expert), Google Cloud Platform, AWS (Solutions Architect Professional)
+- **Container Orchestration**: Kubernetes, Docker, Helm
+- **Infrastructure as Code**: Terraform, Bicep, PowerShell, Bash
+- **Serverless**: AWS Lambda, Azure Functions and Logic Apps, Google Cloud Functions
+- **Service Mesh**: Azure Graph, AWS App Mesh
 
 ### 🤖 AI & LLM Integration
-- **LLM Platforms**: OpenAI GPT-4, Claude, Gemini, Azure OpenAI Service, AWS Bedrock
-- **ML Operations**: MLflow, Kubeflow, SageMaker, Vertex AI, model versioning & deployment
-- **Vector Databases**: Pinecone, Weaviate, Chroma, Milvus, pgvector
+- **LLM Platforms**: OpenAI ChatGPT and API, Claude, Gemini, Azure OpenAI Service, Hugging Face 
+- **ML Operations**: Vertex AI, Azure Foundry, model versioning & deployment
+- **Vector Databases**: pgvector
 - **RAG Architectures**: Retrieval-augmented generation, semantic search, embedding strategies
-- **AI Agents**: LangChain, LlamaIndex, AutoGPT, agent orchestration, multi-agent systems
+- **AI Agents**: LangChain, LlamaIndex, AutoGPT, Azure Foundry, Gemini Agent orchestration, multi-agent systems
 
 ### 🔐 Identity, Security & Compliance
 - **Identity Protocols**: OAuth 2.0, OpenID Connect (OIDC), SAML 2.0, FIDO2/WebAuthn
@@ -43,16 +43,16 @@ Senior Software Solution Architect with **30+ years** of experience designing an
 - **Compliance**: SOC 2, GDPR, HIPAA, PCI-DSS, FedRAMP
 
 ### 🛠️ Technology Stack Expertise
-- **Languages**: Java, C#, Python, TypeScript/JavaScript, Go, Rust
-- **Frameworks**: Spring Boot, .NET Core, Node.js, FastAPI, Django, Express
-- **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Cosmos DB, Redis, Cassandra
-- **Message Brokers**: Kafka, RabbitMQ, AWS SQS/SNS, Azure Service Bus, NATS
-- **Observability**: Prometheus, Grafana, ELK Stack, Datadog, New Relic, Jaeger, OpenTelemetry
+- **Languages**: C#, Java, Python, TypeScript/JavaScript, Go, Solidity
+- **Frameworks**: .NET Core, Node.js, FastAPI, Django, Express
+- **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Cosmos DB, Redis, MS LedgerDB
+- **Message Brokers**: Kafka, RabbitMQ, Azure Service Bus, NATS
+- **Observability**: Prometheus, Grafana
 
 ### �� Open Standards & Protocols
 - **API Standards**: OpenAPI 3.x, AsyncAPI, JSON:API, HAL, JSON Schema
 - **Authentication**: JWT, JWE, JWS, PKCE, mTLS, certificate-based authentication
-- **Data Formats**: JSON-LD, Protocol Buffers, Apache Avro, Apache Parquet
+- **Data Formats**: JSON-LD, Protocol Buffers
 - **Cloud Native**: OCI (Open Container Initiative), CNI, CSI, CRI, CNCF landscape
 - **W3C Standards**: WebAuthn, Verifiable Credentials, DID (Decentralized Identifiers)
 
@@ -62,7 +62,7 @@ Senior Software Solution Architect with **30+ years** of experience designing an
 
 ### Enterprise Cloud Migration & Modernization
 Led cloud-native transformation for Fortune 500 enterprise, migrating 200+ applications to AWS/Azure hybrid cloud. Implemented microservices architecture with Kubernetes, reducing operational costs by 40% and improving deployment frequency from quarterly to daily.
-- **Technologies**: Kubernetes, Terraform, AWS EKS, Azure AKS, Istio, ArgoCD
+- **Technologies**: Kubernetes, Terraform, Azure AKS
 - **Impact**: 40% cost reduction, 50x deployment frequency increase, 99.99% uptime
 
 ### AI-Powered Customer Intelligence Platform
