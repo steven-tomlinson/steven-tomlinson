@@ -1,6 +1,7 @@
-I am a software architect, full-stack engineer, and innovative product developer with more than 20 years of professional experience** designing, building, modernizing, and operating complex software systems. 
+I am a software architect, full-stack engineer, and innovative product developer with more than 20 years of professional experience designing, building, modernizing, and operating complex software systems. 
 
-In addition to my years of exxperience building software traditionally, I am an early adopter of Artificial Intelligence technologies since 2018 when I began working woith TensorFlow and Computer Vision through Google Courseware. 
+In addition to my years of exxperience building software traditionally, I am an early adopter of Artificial Intelligence technologies since 2018, when I began working woith TensorFlow and Computer Vision through Google Courseware. 
+Now, I use GitHub CoPilot and generative AI with the various Cluade, OpenAI, Gemini, and other models for a nearly every step of the Software developkment Life Cycle, and more. 
 
 Lately, I have worked on projects from building local Small Language Models for Private Document Libraries to building out of AI-Driven applications using Azure OpenAI.
 
