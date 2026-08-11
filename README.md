@@ -4,7 +4,7 @@
 
 I am an architect and product developer with over 30 years of experience designing, building, modernizing, and operating complex software systems. My career spans enterprise platforms, distributed systems, and emerging decentralized infrastructure across both Microsoft and Linux ecosystems.
 
-Today, my focus is at the bleeding edge: merging **Artificial Intelligence** (local SLMs to Azure OpenAI) with **Decentralized Technologies** (Stellar, Soroban, Solid) to build robust, next-generation applications.
+Today, my personal focus is at the bleeding edge: merging **Artificial Intelligence** (local SLMs to Azure OpenAI) with **Decentralized Technologies** (Stellar, Soroban, Solid) to build robust, next-generation applications.
 
 ### 🚀 Platforms in Production (Operating & Iterating for PMF)
 
@@ -30,7 +30,7 @@ When I'm not orchestrating multi-agent AI ecosystems or writing smart contracts,
 
 ### 📫 Let's Connect
 
-If you have an idea or a fully formed project to build, I am available on a **freelance, C2C, 1099, or W2** employment basis. Rates are negotiable and depend on the nature and complexity level of the project.
+If you have an interesting idea or a fully formed project to build, I am available on a **freelance, C2C, 1099, or W2** employment basis. Rates are negotiable and depend on the nature and complexity level of the project. 
 
 *   🌐 **Portfolio & Links:** [steventomlinson.dev](https://steventomlinson.dev) 
 *   💼 **LinkedIn:** [in/pakana](https://www.linkedin.com/in/pakana/)
