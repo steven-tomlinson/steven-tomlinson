@@ -4,7 +4,7 @@
 
 I am an architect and product developer with over 20 years of experience designing, building, modernizing, and operating complex software systems. My career spans simple landing page e-commerce sites, installable Windows Desktop applications to internal enterprise platforms, distributed systems, and emerging decentralized infrastructure across both Microsoft and Linux ecosystems.
 
-Today, my personal focus is at the bleeding edge: merging **Artificial Intelligence**, like local Small Language Model in collaboration with cloud-base models like Azure OpenAI or Hugging Face inference APIs, with **Decentralized Technologies** (Stellar, Soroban, Solid) to build robust, next-generation applications.
+Today, my personal focus is experimenting and researching how to use **Artificial Intelligence** tools like local Small Language Models in collaboration with cloud-bases models, like Azure OpenAI or Hugging Face inference APIs, with **Decentralized Technologies** (Stellar, Soroban, Solid) to build robust, next-generation applications.
 
 ### 🚀 Platforms in Production (Operating & Iterating for PMF)
 
